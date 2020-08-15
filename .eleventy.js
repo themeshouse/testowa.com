@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
     return {
         PassthroughFileCopy: true,
         markdownTemplateEngine: "njk",
-        templateFormats: ["html", "njk", "md"],
+        templateFormats: ["html", "njk", "md", "yml"],
         dir: {
             input: "src",
             output: "_site",
