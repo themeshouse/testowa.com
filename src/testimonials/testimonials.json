@@ -1,0 +1,4 @@
+{
+    "layout": "layouts/testimonials.njk",
+    "tags": "testimonials"
+}
